@@ -5,7 +5,13 @@
 ## Security and Privacy Challenges in the Migration from Monolithic to Microservices Architectures.
 [29th International Conference on Information Systems Development](https://isd2020.webs.upv.es/).
 
+<br/><br/><br/>
 
+### 1. Monolith x Microservices Comparison
+
+<img src="https://github.com/djonathanb/ISD-2020-mono-micro-security/blob/master/Monolith%20to%20Microservices%20Migration.png" width="70%">
+
+<br/><br/><br/>
 
 ### References
 
@@ -26,6 +32,8 @@ R12          | DevOps        | DevOps (2016) | https://doi.ieeecomputersociety.o
 R13          | DevOps        | Software Security in DevOps: Synthesizing Practitioners’ Perceptions and Practices (2016) | https://dl.acm.org/doi/10.1145/2896941.2896946
 R14          | DevOps        | Container and Microservice Driven Design for Cloud Infrastructure DevOps (2016) | https://doi.ieeecomputersociety.org/10.1109/MS.2016.68
 R15          | DevOps        | DevSecOps: A Multivocal Literature Review (2017) | https://doi.org/10.1007/978-3-319-67383-7_2
+
+<br/><br/><br/>
 
 ### Gray References
 
